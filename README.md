@@ -24,4 +24,5 @@ LIVE PREVIEW -
  3. ***Display 10 repositories per page.*** 
  4. ***Use of pagination***
 
-## *you can check all the components in the following folder - "/client/src/components"
+### * you can check all the components in the following folder - "/client/src/components"
+### * you can search for any user repository by changing the user name in the url used to fetch API in "userdata" and "userrepos" file in component folder. (working on the search button)
