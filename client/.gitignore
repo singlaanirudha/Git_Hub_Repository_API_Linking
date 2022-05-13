@@ -21,3 +21,14 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+# Files Added By Me
+# /App.text.js
+# /reportWebVitals.js
+# /setupTest.js
+# /index.css
+# package-lock.json
+# /node_modules
+# /src/components/git.png
+
