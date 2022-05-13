@@ -1,6 +1,8 @@
 # GitHub Repository Listing Page
 ## ReactJs Based Front End API integration project, Designed and Developed by Anirudha Singla ✌.
- 
+
+Git Hub user data and user repository listing web application. Created using open source github API and integrating it with reactjs framework. Also demonstrated concepts like pagination and limiting number of repository per page.
+
 LIVE PREVIEW -
 # You can see a live preview of the Website on - [www.google.com](https://www.google.com/).
  
