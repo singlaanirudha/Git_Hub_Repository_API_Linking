@@ -1,8 +1,8 @@
 # GitHub Repository Listing Page
-## ReactJs Based Front End integration project, Developed and Designed by Anirudha Singla ✌.
+## ReactJs Based Front End integration project, Designed and Developed by Anirudha Singla ✌.
  
- ## PREVIEW -
- You can see a live preview of the Website on - [www.google.com](https://www.google.com/).
+## PREVIEW -
+# You can see a live preview of the Website on - [www.google.com](https://www.google.com/).
  
  **TECHNOLOGY USED**
  1. ***FRONT END-*** 
