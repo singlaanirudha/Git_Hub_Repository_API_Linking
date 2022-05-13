@@ -19,8 +19,7 @@
 
 
  **KEY FEATURES**
- 1. ***Fully functional contact me page form.***
- 2. ***Custom hand coded on scroll and static animation using javascrpt and jquery.***
- 3. ***Fully Responsive mobile first web application design.*** 
- 4. ***Complete React build.***
-
+ 1. ***Disply Github user details.***
+ 2. ***Display Github user repositories.***
+ 3. ***Display 10 repositories per page.*** 
+ 4. ***Use of pagination***
