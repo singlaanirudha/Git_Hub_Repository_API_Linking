@@ -23,3 +23,5 @@ LIVE PREVIEW -
  2. ***Display Github user repositories.***
  3. ***Display 10 repositories per page.*** 
  4. ***Use of pagination***
+
+## *you can check all the components in the following folder - "/client/src/components"
