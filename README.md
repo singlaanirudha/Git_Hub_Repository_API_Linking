@@ -4,7 +4,7 @@
 Git Hub user data and user repository listing web application. Created using open source github API and integrating it with reactjs framework. Also demonstrated concepts like pagination and limiting number of repository per page.
 
 LIVE PREVIEW -
-# You can see a live preview of the Website on - [www.git_repo_listing.com](https://git-repository-listing.netlify.app/).
+## You can see a live preview of the Website on - [https://git-repository-listing.netlify.app/](https://git-repository-listing.netlify.app/).
  
  **TECHNOLOGY USED**
  1. ***FRONT END-*** 
