@@ -1,11 +1,13 @@
-### Github Repository Linking Page
+# Github Repository Linking Page
 
 ## Created React project to display the Github repositories listing page by passing the Github username.
 
-# Features
-1. Disply Github user details.
-2. Display Github user repositories.
-3. Display 10 repositories per page.
-4. Use of pagination
+## Live Preview -
 
-Live project deployed link - https://github-user-repo-listing.netlify.app/
+### Features
+1. Disply Github user details.
+2. Search any Git hub user from the search bar and all the user's public repositories will be listed.
+3. Display Github user repositories.
+4. Display 10 repositories per page.
+5. Use of pagination
+
