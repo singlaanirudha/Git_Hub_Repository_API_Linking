@@ -2,7 +2,7 @@
 
 ## Created React project to display the Github repositories listing page by passing the Github username.
 
-## Live Preview -
+## Live Preview - https://git-repository-listing.netlify.app/
 
 ### Features
 1. Disply Github user details.
