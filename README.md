@@ -1,8 +1,10 @@
 # GitHub Repository Listing Page
-## ReactJs Based Front End integration project, Designed and Developed by Anirudha Singla ✌.
- 
+## ReactJs Based Front End API integration project, Designed and Developed by Anirudha Singla ✌.
+
+Git Hub user data and user repository listing web application. Created using open source github API and integrating it with reactjs framework. Also demonstrated concepts like pagination and limiting number of repository per page.
+
 LIVE PREVIEW -
-# You can see a live preview of the Website on - [www.google.com](https://www.google.com/).
+## You can see a live preview of the Website on - [https://git-repository-listing.netlify.app/](https://git-repository-listing.netlify.app/).
  
  **TECHNOLOGY USED**
  1. ***FRONT END-*** 
@@ -23,3 +25,6 @@ LIVE PREVIEW -
  2. ***Display Github user repositories.***
  3. ***Display 10 repositories per page.*** 
  4. ***Use of pagination***
+
+### * you can check all the components in the following folder - "/client/src/components"
+### * you can search for any user repository by changing the user name in the url used to fetch API in "userdata" and "userrepos" file in component folder. (working on the search button)
